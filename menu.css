@@ -48,7 +48,7 @@ header img{
     display: flex;
     width: 1350px;
     height: 400px;
-    background-image: url(/img/banner-bg2);
+    background-image: url(img/banner-bg2);
     background-position: center;
     box-sizing: border-box;
     text-align: center;
@@ -162,7 +162,7 @@ header img{
 #img-main{
     display: flex;
     justify-self: center;
-    background-image: url(/img/callaction-bg.jpg);
+    background-image: url(img/callaction-bg.jpg);
     width: 1140px;
     height: 450px;
     text-align: center;
