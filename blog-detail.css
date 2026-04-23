@@ -57,7 +57,7 @@ header img{
     display: flex;
     width: 1520px;
     height: 400px;
-    background-image: url(/img/banner-bg.png);
+    background-image: url(img/banner-bg.png);
     background-position: center;
     box-sizing: border-box;
     text-align: center;
