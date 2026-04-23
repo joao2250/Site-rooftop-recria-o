@@ -50,7 +50,7 @@ margin: 16px;
     display: flex;
     width: 1520px;
     height: 400px;
-    background-image: url(/img/banner1-bg);
+    background-image: url(img/banner1-bg);
     background-position: center;
     box-sizing: border-box;
     text-align: center;
