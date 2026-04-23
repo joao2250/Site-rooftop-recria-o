@@ -49,7 +49,7 @@ width: 362px;
     display: flex;
     width: 1520px;
     height: 750px;
-    background-image: url(/img/header-bg.png);
+    background-image: url(img/header-bg.png);
     background-position: center;
     box-sizing: border-box;
     text-align: center;
