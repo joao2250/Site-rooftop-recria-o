@@ -54,7 +54,7 @@ margin: 16px;
     display: flex;
     width: 1520px;
     height: 750px;
-    background-image: url(/img/header-bg.png);
+    background-image: url(img/header-bg.png);
     background-position: center;
     box-sizing: border-box;
     text-align: center;
@@ -430,7 +430,7 @@ margin: 16px;
 #img-main{
     display: flex;
     justify-self: center;
-    background-image: url(/img/callaction-bg.jpg);
+    background-image: url(img/callaction-bg.jpg);
     width: 1140px;
     height: 450px;
     text-align: center;
